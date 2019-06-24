@@ -1,0 +1,45 @@
+.b-cap{
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 37px;
+    background-color: #ffffff;
+}
+.b-cap_logotip{
+    float: left;
+}
+.b-cap_logo{
+    color: #333333;
+    font-size: 36px;
+    font-weight: 400;
+    text-transform: uppercase;
+    line-height: 36px;
+    padding-top: 36px;
+}
+.b-cap_logoCaption{
+    color: #999999;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 12px;
+    padding-top: 15px;
+}
+.b-cap_nav{
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 14.4px;
+    float: right;
+    display: block;
+    padding-top: 87px;
+}
+.b-cap_button{
+    text-decoration: none;
+    color: #81b300;
+}
+.b-cap_buttonLi{
+    float: left;
+    list-style-type: none;
+}
+.b-cap:after{
+    content: ' ';
+    display: block;
+    clear: both;
+}

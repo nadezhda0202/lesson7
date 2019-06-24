@@ -1,0 +1,13 @@
+.b-slyder{
+    background-color: #f2f2f2;
+}
+.b-slyder:after{
+    content: ' ';
+    clear: both;
+    display: block;
+}
+.b-slyder_Img {
+    width: 880px;
+    height: 360px;
+    padding: 40px;
+}
